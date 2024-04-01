@@ -23,8 +23,8 @@ export default async function RootLayout({ children }: RootLayoutProps) {
 
 const getData = async () => {
   const data = {
-    description: "An internet website!",
-    icon: "/images/favicon.png",
+    description: "LP CyberShoe",
+    icon: "https://longphanquangminh.github.io/Long-Phan-Resume/images/logoML.png",
   };
 
   return data;
