@@ -516,6 +516,7 @@ img {
   border: none;
   width: 90%;
   font-size: var(--normal-font-size);
+  color: black;
 }
 
 .newsletter ::placeholder {
