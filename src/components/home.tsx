@@ -4,7 +4,7 @@ export default function Home() {
       <div className='home__container grid'>
         <div className='home__sneaker'>
           <div className='home__shape'></div>
-          <img src='public/assets/img/imghome.png' alt='' className='home__img' />
+          <img src='assets/img/imghome.png' alt='' className='home__img' />
         </div>
 
         <div className='home__data'>
